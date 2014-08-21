@@ -1,1 +1,1 @@
-hello , github ; 
+hello ,[there is before insert str ;] github ; 
